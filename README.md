@@ -14,9 +14,6 @@ Handsign is a simple AI-based hand gesture recognition that translates a hand po
 
 uncomment the `estimatedGestures` data to change `'.pose-data'` innerHTML
 
-```js
-// document.querySelector('.pose-data').innerHTML =JSON.stringify(estimatedGestures.poseData, null, 2);
-```
 
 the `estimatedGestures` data will render on your screen.
 
