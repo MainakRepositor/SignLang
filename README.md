@@ -29,8 +29,6 @@ the `estimatedGestures` data will render on your screen.
 
 If you want to learn more about Tensorflow JS and custom gesture handpose, please kindly check these amazing videos
 
-- [Machine Learning with TensorFlow in JavaScript](https://www.youtube.com/watch?v=WIHZ7kjJ35o) - by [Jason Lengstorf](https://github.com/jlengstorf) and [Jason Mayes](https://github.com/jasonmayes)
 
-- [Building a Real Time Sign Language Detection App with React.JS and Tensorflow.JS](https://www.youtube.com/watch?v=ZTSRZt04JkY) - by [Nicholas Renotte](https://github.com/nicknochnack)
 
 <!-- AUTO-GENERATED-CONTENT:END -->
