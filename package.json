@@ -1,0 +1,41 @@
+{
+  "name": "handsign-alphabet",
+  "private": true,
+  "description": "A simple ASL (American Sign Language) alphabet detection using TensorFlow and Handpose model",
+  "version": "0.1.0",
+  "author": "Syauqy <syauqyaziz@gmail.com>",
+  "dependencies": {
+    "@chakra-ui/gatsby-plugin": "^1.0.0",
+    "@chakra-ui/react": "^1.0.4",
+    "@emotion/react": "^11.1.4",
+    "@emotion/styled": "^11.0.0",
+    "@tensorflow-models/handpose": "^0.0.6",
+    "@tensorflow/tfjs": "^2.4.0",
+    "@tensorflow/tfjs-backend-webgl": "^2.4.0",
+    "fingerpose": "^0.0.2",
+    "framer-motion": "^3.1.1",
+    "prop-types": "^15.7.2",
+    "next": "latest",
+    "react": "latest",
+    "react-dom": "latest",
+    "react-helmet": "^6.1.0",
+    "react-icons": "^4.1.0",
+    "react-webcam": "^5.2.2"
+  },
+  "devDependencies": {
+    "prettier": "2.1.2"
+  },
+  "keywords": [
+    "gatsby"
+  ],
+  "license": "0BSD",
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/syauqy/handsign-tensorflow-gatsby"
+  }
+}
