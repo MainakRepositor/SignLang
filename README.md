@@ -23,12 +23,6 @@ the `estimatedGestures` data will render on your screen.
 
 - [Handpose](https://github.com/tensorflow/tfjs-models/tree/master/handpose) - A lightweight ML pipeline consisting of two models: A palm detector and a hand-skeleton finger tracking model.
 
-- [Fingerpose](https://github.com/andypotato/fingerpose) - A pose classifier for hand landmarks detected by TensorFlow.js Handpose's model.
-
-- Sign language illustration is created by [Pelin Kahraman](https://thenounproject.com/pelodrome/)
-
-If you want to learn more about Tensorflow JS and custom gesture handpose, please kindly check these amazing videos
-
 
 
 <!-- AUTO-GENERATED-CONTENT:END -->
